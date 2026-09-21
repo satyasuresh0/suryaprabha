@@ -94,8 +94,9 @@ head{
                 
             }
             p{
-                color:rgb(8, 16, 110);
+                color:purple;
                 border-color:rgb(0, 0, 0);
                 font-size: 30px;
                 font-style: italic;
+               font-weight:bold;
             }

@@ -85,6 +85,11 @@ head{
                 top:20px;
                 right:20px;
             }
+input:focus {
+  border: 2px solid blue;
+  outline: none;
+}
+
             .main1{
                 color:red;
                 position:absolute;
@@ -101,3 +106,5 @@ head{
                 font-style: italic;
                font-weight:bold;
             }
+
+

@@ -85,7 +85,7 @@ head{
                 top:20px;
                 right:20px;
             }
-input:focus {
+#name:focus {
   border: 2px solid blue;
   outline: none;
 }
